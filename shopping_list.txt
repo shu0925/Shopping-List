@@ -1,2 +1,8 @@
 Shopping List For Party
+<<<<<<< HEAD
  nava want to bring beer !
+=======
+Beer
+Lobster
+Steak
+>>>>>>> a42d8ff6ec47a3870d6ab1bd05edd5d65d5f333c
